@@ -1,4 +1,4 @@
-/* Parameters linker: -lws2_32 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
